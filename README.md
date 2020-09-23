@@ -3,6 +3,8 @@ Learning to use Github for your Portfolio Website Assignment
 
 # Personal Portfolio Assignment
 
+Hallo
+
 **Assignment Instructions**
 
 - Create your own GitHub profile/ID (use a name appropriate for job applications) <https://happygitwithr.com/github-acct.html>
